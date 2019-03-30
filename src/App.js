@@ -1,28 +1,42 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import CardList from './CardList';
+import SearchBox from './SearchBox';
+import Scroll from './Scroll';
+import { Shows } from './Shows';
+
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
+	constructor() {
+		super()
+		this.state = {
+			Shows: Shows,
+			searchfield:''
+		}
+	}
+
+onSearchChange = (event) => {
+	this.setState({ searchfield: event.target.value})
+}
+
+	render () {
+		const { Shows, searchfield } = this.state;
+		const filteredShows = Shows.filter(show => {
+			return show.name.toLowerCase().includes(searchfield.toLowerCase());
+		})
+		return !Shows.length ?
+
+		<h1>LOADING</h1> :
+		(
+			<div className='tc'>
+
+			<h1 className= "glitch" data-text="SHOWSLIST">SHOWSLIST</h1>
+			<SearchBox searchChange = {this.onSearchChange} />
+			<Scroll>
+				<CardList Shows={filteredShows}/>
+				</Scroll>
+			</div>
+		);
+		}
 }
 
 export default App;
