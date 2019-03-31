@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bhusallaxman22/Shows/precache-manifest.69490f5d8f471b7d1a0829b361f1f968.js"
+  "/Shows/precache-manifest.e7b058ab530dfc6b159d58b8797c89a6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/bhusallaxman22/Shows/index.html", {
+workbox.routing.registerNavigationRoute("/Shows/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
