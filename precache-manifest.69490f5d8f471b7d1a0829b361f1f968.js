@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/bhusallaxman22/Shows/static/js/runtime~main.325d2e69.js"
   },
   {
-    "revision": "26c62a6ad834b74ccdc6",
-    "url": "/bhusallaxman22/Shows/static/js/main.f348e7bf.chunk.js"
+    "revision": "afb990cb3ff6ae66e40e",
+    "url": "/bhusallaxman22/Shows/static/js/main.e5bf72cf.chunk.js"
   },
   {
     "revision": "3a0e55638010b639c676",
     "url": "/bhusallaxman22/Shows/static/js/2.590933e2.chunk.js"
   },
   {
-    "revision": "26c62a6ad834b74ccdc6",
+    "revision": "afb990cb3ff6ae66e40e",
     "url": "/bhusallaxman22/Shows/static/css/main.1cc1f65b.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/bhusallaxman22/Shows/static/css/2.fa652a1b.chunk.css"
   },
   {
-    "revision": "6c07043bada24494faae1cb14cb877e5",
+    "revision": "22fc592c5d7dcd2f8333c4c8f82d9bce",
     "url": "/bhusallaxman22/Shows/index.html"
   }
 ];
