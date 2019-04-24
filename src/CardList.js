@@ -17,7 +17,7 @@ const CardList = ({ Shows }) => {
 			 No_Of_Current_Seasons={Shows[i].No_Of_Current_Seasons}
 			 Plot={Shows[i].Plot}
 			 Status={Shows[i].Status}
-			 
+			 link={Shows[i].link}
 			/>
 		);
 	}) 
