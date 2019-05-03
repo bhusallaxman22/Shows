@@ -1,16 +1,18 @@
 {
-  "main.css": "/Shows/static/css/main.a82b1dca.chunk.css",
-  "main.js": "/Shows/static/js/main.4066f799.chunk.js",
-  "main.js.map": "/Shows/static/js/main.4066f799.chunk.js.map",
-  "runtime~main.js": "/Shows/static/js/runtime~main.11ee6706.js",
-  "runtime~main.js.map": "/Shows/static/js/runtime~main.11ee6706.js.map",
-  "static/css/2.55f40911.chunk.css": "/Shows/static/css/2.55f40911.chunk.css",
-  "static/js/2.c4feffe9.chunk.js": "/Shows/static/js/2.c4feffe9.chunk.js",
-  "static/js/2.c4feffe9.chunk.js.map": "/Shows/static/js/2.c4feffe9.chunk.js.map",
-  "index.html": "/Shows/index.html",
-  "precache-manifest.d6e0b941d2dd906cc79382b0327fee82.js": "/Shows/precache-manifest.d6e0b941d2dd906cc79382b0327fee82.js",
-  "service-worker.js": "/Shows/service-worker.js",
-  "static/css/2.55f40911.chunk.css.map": "/Shows/static/css/2.55f40911.chunk.css.map",
-  "static/css/main.a82b1dca.chunk.css.map": "/Shows/static/css/main.a82b1dca.chunk.css.map",
-  "static/media/index.css": "/Shows/static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/Shows/static/css/main.c90df7dc.chunk.css",
+    "main.js": "/Shows/static/js/main.7220d5f7.chunk.js",
+    "main.js.map": "/Shows/static/js/main.7220d5f7.chunk.js.map",
+    "runtime~main.js": "/Shows/static/js/runtime~main.11ee6706.js",
+    "runtime~main.js.map": "/Shows/static/js/runtime~main.11ee6706.js.map",
+    "static/css/2.d9482dc6.chunk.css": "/Shows/static/css/2.d9482dc6.chunk.css",
+    "static/js/2.c4feffe9.chunk.js": "/Shows/static/js/2.c4feffe9.chunk.js",
+    "static/js/2.c4feffe9.chunk.js.map": "/Shows/static/js/2.c4feffe9.chunk.js.map",
+    "index.html": "/Shows/index.html",
+    "precache-manifest.cb971927b82fc082a1f314e32c8c8f31.js": "/Shows/precache-manifest.cb971927b82fc082a1f314e32c8c8f31.js",
+    "service-worker.js": "/Shows/service-worker.js",
+    "static/css/2.d9482dc6.chunk.css.map": "/Shows/static/css/2.d9482dc6.chunk.css.map",
+    "static/css/main.c90df7dc.chunk.css.map": "/Shows/static/css/main.c90df7dc.chunk.css.map",
+    "static/media/index.css": "/Shows/static/media/SEGA.12a3db8b.woff"
+  }
 }
