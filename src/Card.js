@@ -1,21 +1,23 @@
-import React from 'react';
+import React from 'react'
+import Rating from './rating'
 
 
 const Card = ({ name, id, No_Of_Current_Seasons, Status, Plot, link}) => {
 	return (
-	   <div className='bg-light-green dib br3 pa3 ma2 hover bw2 shadow=8'>
-    <div className="flip-container" >
+	   <div title={`${name}`} className='bg-green dib br3 pa3 ma2 hover bw2 shadow=8'>
+    <div className="flip-container">
   <div className="flipper">
     <div className="front">
-    <img src = {`./images/${id}.jpg`} alt='shows' height = '200' width = '200' />
+    <img src = {`./images/${id}.jpg`} alt='shows' />
     <div>
-    <h2>{name}</h2>
+    <h2 className='name yellow'>{name}</h2>
     <p>No. Of Current Seasons: {No_Of_Current_Seasons}</p>
     <p>Runtime Status: {Status}</p>
     </div>
     </div>
     <div className="back">
-    <p>Plot: {Plot}</p>
+    <p className="red">Plot:</p><p> {Plot}</p><br />
+    <Rating />
     <a  href={`${link}`} className='f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-hot-pink'>Link</a>
     </div>
 

@@ -47,7 +47,7 @@ export const Shows = [
 	{
 		id : 6,
 		name : "Breaking Bad",
-		Plot : "Mild-mannered high school chemistry teacher Walter White thinks his life can't get much worse. His salary barely makes ends meet, a situation not likely to improve once his pregnant wife gives birth, and their teenage son is battling cerebral palsy. But Walter is dumbstruck when he learns he has terminal cancer. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.",
+		Plot : "Mild-mannered high school chemistry teacher Walter White thinks his life can't get much worse. Realizing that his illness probably will ruin his family financially, Walter makes a desperate bid to earn as much money as he can in the time he has left by turning an old RV into a meth lab on wheels.",
 		No_Of_Current_Seasons : 5,
 		Status : "Complete",
 		link : "https://123putlocker.info/series/breaking-bad/"
@@ -172,7 +172,7 @@ export const Shows = [
 
 	{
 		id : 20,
-		name : "End of The Fucking World",
+		name : "The End of The Fucking World",
 		Plot : "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
 		No_Of_Current_Seasons : 1,
 		Status : "Running",
@@ -441,5 +441,21 @@ export const Shows = [
 			No_Of_Current_Seasons: 4, 
             Status: "Completed",
             link : "https://www3.9anime.to/watch/fullmetal-alchemist-brotherhood.0r7/j69y93"
+		},
+		{
+            id: 51,
+            name: "Big Mouth", 
+			Plot: "Teenage friends find their lives upended by the wonders and horrors of puberty.",
+			No_Of_Current_Seasons: 3, 
+            Status: "Running",
+            link : "https://kimcartoon.to/Cartoon/Big-Mouth"
+		},
+		{
+            id: 52,
+            name: "The Hunting of Hill House", 
+			Plot: "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+			No_Of_Current_Seasons: 1, 
+            Status: "Running",
+            link : "https://www7.fmovies.to/film/the-haunting-of-hill-house.l39vn/xrjp1wv"
         },
 	];
