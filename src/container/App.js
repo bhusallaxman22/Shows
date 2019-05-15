@@ -3,8 +3,7 @@ import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import { Shows } from '../components/Shows';
-
-
+import Github from '../components/view-on-github'
 
 class App extends Component {
 	constructor() {
@@ -13,11 +12,18 @@ class App extends Component {
 			Shows: Shows,
 			searchfield:'',
 		}
-	}
+	};
+
+	// componentDidMount() {
+	// fetch(`{http://www.omdbapi.com/?t=${name}+&apikey=5bf591b5}`
+	// )
+	// 	.then(response => response.json())
+	// 	.then(data => this.setState({ imdbr: data.imdbr }));
+	// }
 
 onSearchChange = (event) => {
 	this.setState({ searchfield: event.target.value})
-}
+};
 
 	render () {
 		const { Shows, searchfield } = this.state;
@@ -29,9 +35,9 @@ onSearchChange = (event) => {
 		<h1>LOADING</h1> :
 		(
 			<div className='tc'>
-
-			<h1 className= "glitch" data-text="SHOWSLIST">SHOWSLIST</h1>
-			<SearchBox searchChange = {this.onSearchChange} />
+			<Github />
+			<h1 className= "glitch orange" data-text="SHOWSLIST">SHOWSLIST</h1>
+			<SearchBox className="br4" searchChange = {this.onSearchChange} />
 			<Scroll>
 				<CardList Shows={filteredShows}/>
 				</Scroll>

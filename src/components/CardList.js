@@ -8,7 +8,7 @@ const CardList = ({ Shows }) => {
 	return (
 	<div>
 {
-	Shows.map((user, i) => {
+	Shows.map((_user, i) => {
 		return (
 			<Card 
 			 key={i} 
@@ -17,6 +17,7 @@ const CardList = ({ Shows }) => {
 			 No_Of_Current_Seasons={Shows[i].No_Of_Current_Seasons}
 			 Plot={Shows[i].Plot}
 			 Status={Shows[i].Status}
+			 imdb={Shows[i].imdb}
 			 link={Shows[i].link}
 			/>
 		);
