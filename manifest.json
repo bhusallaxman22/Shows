@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Shows List",
+  "name": "List of Shows watched by Laxman Bhusal",
   "icons": [
     {
       "src": "favicon.ico",
