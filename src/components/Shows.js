@@ -4,7 +4,7 @@ export const Shows = [
 		name : "Game Of Thrones",
 		Plot : "It's the depiction of two powerful families -- kings and queens, knights and renegades, liars and honest men -- playing a deadly game for control of the Seven Kingdoms of Westeros, and to sit atop the Iron Throne.",
 		No_Of_Current_Seasons : 7,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "9.5",
 		link : "https://123putlocker.info/series/game-of-thrones-2011/"
 	},
@@ -14,7 +14,7 @@ export const Shows = [
 		name : "WestWorld",
 		Plot : "Westworld isn't your typical amusement park. Intended for rich vacationers, the futuristic park -- which is looked after by robotic 'hosts'.No matter how illicit the fantasy may be, there are no consequences for the park's guests, allowing for any wish to be indulged. 'Westworld'",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.8",
 		link : "https://123putlocker.info/series/westworld-full/"
 	},
@@ -24,7 +24,7 @@ export const Shows = [
 		name : "Mr. Robot",
 		Plot: "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for.",
 		No_Of_Current_Seasons : 4,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.5",
 		link : "https://123putlocker.info/series/mr-robot/"
 	},
@@ -34,7 +34,7 @@ export const Shows = [
 		name : "Rick And Morty",
 		Plot : "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
 		No_Of_Current_Seasons : 3,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "9.3",
 		link : "https://123putlocker.info/series/rick-and-morty/"
 	},
@@ -64,7 +64,7 @@ export const Shows = [
 		name : "True Detective",
 		Plot: "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
 		No_Of_Current_Seasons : 3,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "9.0",
 		link : "https://123putlocker.info/series/true-detective/"
 	},
@@ -104,7 +104,7 @@ export const Shows = [
 		name : "One Punch Man",
 		Plot : "Wanpanman is a play on the long-running children's character Anpanman,[8] wanpan being a contraction of wanpanchi (one punch).[9] One-Punch Man tells the story of Saitama, a superhero who has grown bored by the absence of challenge in his fight against evil and seeks to find a worthy opponent.",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.9",
 		link : "https://www2.9anime.to/watch/one-punch-man-dub.zwx2"
 	},
@@ -114,7 +114,7 @@ export const Shows = [
 		name : "Baki",
 		Plot : "While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on. ... Underground martial arts promoter Tokugawa warns champion Baki that five violent death row escapees from around the world are all ...",
 		No_Of_Current_Seasons : 1,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "6.7",
 		link : "https://www2.9anime.to/watch/baki.nozm/6op3m4"
 	},
@@ -124,7 +124,7 @@ export const Shows = [
 		name : "Bojack Horseman",
 		Plot: "BoJack Horseman was the star of the hit TV show 'Horsin' Around' in the '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.", 
 		No_Of_Current_Seasons : 5,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.5",
 		link : "https://123putlocker.info/series/bojack-horseman/"
 	},
@@ -164,7 +164,7 @@ export const Shows = [
 		name : "Suits",
 		Plot : "On the run from a drug deal gone bad, Mike Ross, a brilliant college dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers.",
 		No_Of_Current_Seasons : 8,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.5",
 		link : "https://123putlocker.info/series/suits/"
 	},
@@ -174,7 +174,7 @@ export const Shows = [
 		name : "Peaky Blinders",
 		Plot : "A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
 		No_Of_Current_Seasons : 4,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.8",
 		link : "https://123putlocker.info/series/peaky-blinders/"
 	},
@@ -184,7 +184,7 @@ export const Shows = [
 		name : "Vikings",
 		Plot : "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
 		No_Of_Current_Seasons : 4,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.6",
 		link : "https://123putlocker.info/series/vikings/"
 	},
@@ -194,7 +194,7 @@ export const Shows = [
 		name : "The End of the F***ing World",
 		Plot : "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
 		No_Of_Current_Seasons : 1,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.1",
 		link : "https://123putlocker.info/series/the-end-of-the-fing-world/"
 	},
@@ -204,7 +204,7 @@ export const Shows = [
 		name : "Sex Education",
 		Plot : "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
 		No_Of_Current_Seasons : 1,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "",
 		link : "https://123putlocker.info/series/sex-education-2019/"
 	},
@@ -214,7 +214,7 @@ export const Shows = [
 		name : "13 Reasons Why",
 		Plot : "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.0",
 		link : "https://123putlocker.info/series/13-reasons-why/"
 	},
@@ -224,7 +224,7 @@ export const Shows = [
 		name : "Stranger Things",
 		Plot : "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.9",
 		link : "https://123putlocker.info/series/stranger-things/"
 	},
@@ -244,7 +244,7 @@ export const Shows = [
 		name : "Brooklyn Nine-Nine",
 		Plot : "Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",
 		No_Of_Current_Seasons : 6,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.4",
 		link : "https://123putlocker.info/series/brooklyn-nine-nine/"
 	},
@@ -254,7 +254,7 @@ export const Shows = [
 		name : "Gotham",
 		Plot : "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
 		No_Of_Current_Seasons : 5,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "7.9",
 		link : "https://123putlocker.info/series/gotham/"
 	},
@@ -264,7 +264,7 @@ export const Shows = [
 		name : "The Flash",
 		Plot : "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, fighting crime in Central City.",
 		No_Of_Current_Seasons : 5,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "7.9",
 		link : "https://123putlocker.info/series/the-flash/"
 	},
@@ -274,7 +274,7 @@ export const Shows = [
 		name : "Supergirl",
 		Plot : "The adventures of Superman's cousin in her own superhero career.",
 		No_Of_Current_Seasons : 4,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "6.4",
 		link : "https://123putlocker.info/series/supergirl/"
 	},
@@ -324,7 +324,7 @@ export const Shows = [
 		name : "Cloak & Dagger",
 		Plot : "Two teenagers from very different backgrounds find themselves burdened and awakened to newly acquired superpowers while falling in love.",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "6.9",
 		link : "https://123putlocker.info/series/marvels-cloak-dagger/"
 	},
@@ -334,7 +334,7 @@ export const Shows = [
 		name : "Fargo",
 		Plot : "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
 		No_Of_Current_Seasons : 3,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "9.0",
 		link : "https://123putlocker.info/series/fargo/"
 	},
@@ -344,7 +344,7 @@ export const Shows = [
 		name : "The Good Place",
 		Plot : "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.",
 		No_Of_Current_Seasons : 3,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.2",
 		link : "https://123putlocker.info/series/the-good-place/"
 	},
@@ -364,7 +364,7 @@ export const Shows = [
 		name : "Ozark",
 		Plot : "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.3",
 		link : "https://123putlocker.info/series/ozark/"
 	},
@@ -374,7 +374,7 @@ export const Shows = [
 		name : "MindHunter",
 		Plot : "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
 		No_Of_Current_Seasons : 1,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.5",
 		link : "https://123putlocker.info/series/mindhunter/"
 	},
@@ -394,7 +394,7 @@ export const Shows = [
 		name : "Better Call Saul",
 		Plot : "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.",
 		No_Of_Current_Seasons : 4,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.7",
 		link : "https://123putlocker.info/series/better-call-saul/"
 	},
@@ -404,7 +404,7 @@ export const Shows = [
 		name : "Sacred Games",
 		Plot : "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
 		No_Of_Current_Seasons : 1,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.9",
 		link : "https://123putlocker.info/series/sacred-games"
 	},
@@ -414,7 +414,7 @@ export const Shows = [
 		name : "Cobra Kai",
 		Plot : "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
 		No_Of_Current_Seasons : 2,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "8.9",
 		link : "https://123putlocker.info/series/cobra-kai"
 },
@@ -423,7 +423,7 @@ export const Shows = [
 		name : "Paradise P.D",
 		Plot : "Animated series about bad cops. Not bad as in corrupt, bad as in under-performing. They aren't first responders, they are the worst responders.",
 		No_Of_Current_Seasons : 1,
-		Status : "Running",
+		Status : "Returning",
 		imdb: "7.0",
 		link : "https://kimcartoon.to/Cartoon/Paradise-PD"
 },
@@ -441,7 +441,7 @@ export const Shows = [
         name: "Love, Death & Robots", 
         Plot: "This collection of animated short stories spans several genres, including science fiction, fantasy, horror and comedy. World-class animation creators bring captivating stories to life in the form of a unique and visceral viewing experience.", 
         No_Of_Current_Seasons: 1, 
-		Status: "Running",
+		Status: "Returning",
 		imdb: "8.7",
         link : "https://kimcartoon.to/Cartoon/Love-Death-Robots"
         },
@@ -451,7 +451,7 @@ export const Shows = [
             name: "Money Heist(La casa de papel)", 
             Plot: "A group of very peculiar robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.", 
             No_Of_Current_Seasons: 2, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.6",
             link : "https://www6.fmovies.to/film/money-heist.7wy6y/6llo9x4"
         },
@@ -460,7 +460,7 @@ export const Shows = [
             name: "Final Space", 
             Plot: "TAn astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist.", 
             No_Of_Current_Seasons: 1, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.4",
             link : "https://www6.fmovies.to/film/final-space-1.oonlz/z3jomp"
         },
@@ -470,7 +470,7 @@ export const Shows = [
             name: "Trailer Park Boys: The Animated Series ", 
             Plot: "Nova Scotia's favorite miscreants have always been super sketchy. Now, carrying on from the Season 12 finale, the boys have become complete cartoons.", 
             No_Of_Current_Seasons: 1, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "7.8",
             link : "https://kimcartoon.to/Cartoon/Trailer-Park-Boys-The-Animated-Series"
 		},
@@ -479,7 +479,7 @@ export const Shows = [
             name: "The Good Doctor", 
             Plot: "A young surgeon with Savant syndrome is recruited into the pediatric surgical unit of a prestigious hospital. The question will arise: can a person who doesn’t have the ability to relate to people actually save their lives?", 
             No_Of_Current_Seasons: 2, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.3",
             link : "https://123putlocker.info/series/the-good-doctor/"
         },
@@ -497,7 +497,7 @@ export const Shows = [
             name: "Big Mouth", 
 			Plot: "Teenage friends find their lives upended by the wonders and horrors of puberty.",
 			No_Of_Current_Seasons: 3, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.1",
             link : "https://kimcartoon.to/Cartoon/Big-Mouth"
 		},
@@ -506,7 +506,7 @@ export const Shows = [
             name: "The Hunting of Hill House", 
 			Plot: "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
 			No_Of_Current_Seasons: 1, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.7",
             link : "https://www7.fmovies.to/film/the-haunting-of-hill-house.l39vn/xrjp1wv"
 		},
@@ -515,7 +515,7 @@ export const Shows = [
             name: "Legion", 
 			Plot: "David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter, he discovers special powers that will change his life forever.",
 			No_Of_Current_Seasons: 2, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.3",
             link : "https://123putlocker.info/series/legion/"
         },	{
@@ -523,7 +523,7 @@ export const Shows = [
             name: "House of Cards", 
 			Plot: "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
 			No_Of_Current_Seasons: 6, 
-			Status: "Running",
+			Status: "Returning",
 			imdb: "8.8",
             link : "https://123putlocker.info/series/house-of-cards/"
         },

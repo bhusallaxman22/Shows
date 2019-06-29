@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /src/components/omdb.js
+/src/components/autosuggest.js
 # testing
 /coverage
 

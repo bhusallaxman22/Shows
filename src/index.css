@@ -19,7 +19,7 @@ src: local('SEGA LOGO FONT'), url('./container/SEGA.woff') format('woff');
   font-family: 'SEGA LOGO FONT';
   font-weight: 200;
   font-size: 50px;
-  color: #0ccac4;
+  /* color: #0ccac4; */
 }
 
 a{
@@ -73,7 +73,21 @@ img {
   font-size: 25px;
   font-display: bold;
 }
-.github-ribbon{background-color:#121621;top:3.2em;right:-3.7em;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg);-webkit-box-shadow:0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;-moz-box-shadow:0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;-ms-box-shadow:0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;-o-box-shadow:0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;box-shadow:0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;color:rgba(255,255,255,0.9);display:block;padding:.6em 3.5em;position:fixed;font:bold .82em sans-serif;text-align:center;text-decoration:none;text-shadow:1px -1px 8px rgba(0,0,0,0.6);-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}
+.github-ribbon{
+  background-color:#121621;
+  top:3.2em;
+  right:-3.7em;
+  transform:rotate(45deg);
+  box-shadow:0 0 0 1px #1d212e inset,0 0 2px 1px #fff inset,0 0 1em #888;
+  /* color:rgba(255,255,255,0.9); */
+  display:block;
+  padding:.6em 3.5em;
+  position:absolute;
+  font:bold .82em sans-serif;
+  text-align:center;
+  text-decoration:none;
+  text-shadow:1px -1px 8px rgba(0,0,0,0.6);
+  user-select:none}
 
 
 code {
