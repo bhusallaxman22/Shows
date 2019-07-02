@@ -1,12 +1,6 @@
 html, body {
-  /* margin: 0px;
-  padding: 0px; */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  /* -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
-  background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
 }
 @font-face {
 font-family: 'SEGA LOGO FONT';
@@ -89,8 +83,74 @@ img {
   text-shadow:1px -1px 8px rgba(0,0,0,0.6);
   user-select:none}
 
+  .curse {
+    font: 400 15px/1.2 'Leckerli One', Helvetica, sans-serif;
+    color: #000;
+    text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2);
+    text-decoration: underline;
+    text-decoration-color: chocolate;
+  }
+  .why {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    overflow: hidden;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.loadera {
+    width: 10em;
+    height: 10em;
+    font-size: 25px;
+    box-sizing: border-box;
+    border-top: 0.3em solid hotpink;
+    border-radius: 50%;
+    position: relative;
+    animation: rotating 2s ease-in-out infinite;
+    --direction: 1;
+}
+
+.loadera::before,
+.loadera::after {
+    content: '';
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    border-radius: 50%;
+    box-sizing: border-box;
+    top: -0.2em;
+}
+
+.loadera::before {
+    border-top: 0.3em solid dodgerblue;
+    transform: rotate(120deg);
+}
+
+.loadera::after {
+    border-top: 0.3em solid gold;
+    transform: rotate(240deg);
+}
+
+.loadera span {
+    position: absolute;
+    color: white;
+    width: inherit;
+    height: inherit;
+    text-align: center;
+    line-height: 10em;
+    font-family: sans-serif;
+    animation: rotating 2s linear infinite;
+    --direction: -1;
+}
+
+@keyframes rotating {
+    50% {
+        transform: rotate(calc(180deg * var(--direction)));
+    }
+
+    100% {
+        transform: rotate(calc(360deg * var(--direction)));
+    }
 }

@@ -27,17 +27,22 @@ onSearchChange = (event) => {
 		const { Shows, searchfield, } = this.state;
 		const filteredShows = Shows.filter(show => {
 			return show.name.toLowerCase().includes(searchfield.toLowerCase())
-		});	
+		});
 
 		return !Shows.length ?
-
-		<h1>LOADING</h1> :
+		<div className='why'>
+<div class="loadera">
+  <span>Loading...</span>
+</div>
+</div>:
 		(
 			<div className='tc'>
 			<Github />
-			<h1 className= "glitch orange" data-text="SHOWSLIST">SHOWSLIST</h1>
+			<h1 className= "glitch orange" data-text="SHOWSLIST" title='A List of Shows I Watched'> SHOWSLIST</h1>
 			<div className='container'>
-			<SearchBox searchChange = {this.onSearchChange} />
+			<SearchBox
+			 searchChange = {this.onSearchChange}
+			/>
 			<Scroll>
 				<CardList Shows={filteredShows}/>
 				</Scroll>

@@ -19,6 +19,7 @@ const CardList = ({ Shows }) => {
 			 Status={Shows[i].Status}
 			 imdb={Shows[i].imdb}
 			 link={Shows[i].link}
+			 tomato={Shows[i].tomato}
 			/>
 		);
 	}) 
